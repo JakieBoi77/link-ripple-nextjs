@@ -14,7 +14,7 @@ Explore the live application at [Link Ripple](https://link-ripple-nextjs.vercel.
 - Frontend: React, Next.js, Magic UI
 - Backend: Next.js
 - Database: MongoDB
-- Deployment: Render
+- Deployment: Vercel
 
 # Usage 🧑‍💻
 - Register: Create a new user account on the registration page.
