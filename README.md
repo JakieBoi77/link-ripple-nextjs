@@ -2,7 +2,7 @@
 Link Ripple is a full-stack application designed as a Linktree clone. It features a React frontend and a MongoDB backend, allowing users to create and manage a personalized landing page with links to their social profiles and other online resources.
 
 # Live Demo 🌐
-Explore the live application at [Link Ripple](https://linkripple.onrender.com/).
+Explore the live application at [Link Ripple](https://link-ripple-nextjs.vercel.app).
 
 # Features 🚀
 - User Authentication: Secure registration and login.
@@ -32,7 +32,7 @@ Contributions are welcome! To contribute:
 
 # Authors ✨
 - [Sankalpa Dhakal](https://github.com/xSankalpaD) - Creator and Lead Full-Stack Developer
-- [Jake Finlay](https://github.com/JakieBoi77) - Lead Front End Developer
+- [Jake Finlay](https://github.com/JakieBoi77) - Lead Full-Stack Developer
 
 # Contact 📧
 For any questions or support, please reach out at:
