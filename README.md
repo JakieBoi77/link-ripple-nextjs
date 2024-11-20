@@ -12,7 +12,7 @@ Explore the live application at [Link Ripple](https://link-ripple-nextjs.vercel.
 
 # Tech Stack 🛠️
 - Frontend: React, Next.js, Magic UI
-- Backend: Node.js, Express.js
+- Backend: Next.js
 - Database: MongoDB
 - Deployment: Render
 
