@@ -69,7 +69,7 @@ const LogIn = () => {
                 onChange={(e) => setPassword(e.target.value)}
                 className="shadow-md border-2 px-3 py-2 rounded-md focus:outline-none"
                 type="password"
-                placeholder="Set a password"
+                placeholder="Enter your password"
                 required
               />
               <input
