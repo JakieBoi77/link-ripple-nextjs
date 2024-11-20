@@ -70,7 +70,7 @@ export default function Home() {
           <p className="text-center mb-8 text-base sm:text-lg md:text-xl tracking-tight text-gray-400 text-balance translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
             Share everything in one place and grow your digital footprint effortlessly.
           </p>
-          <Link className='rounded-lg inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-[#ffffff] shadow hover:bg-[#ebebeb] h-9 px-4 py-2 translate-y-[-1rem] animate-fade-in gap-1 rounded-lgtext-black opacity-0 ease-in-out [--animation-delay:600ms]' href="/apply">
+          <Link className='rounded-lg inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-[#ffffff] shadow hover:bg-[#ebebeb] h-9 px-4 py-2 translate-y-[-1rem] animate-fade-in gap-1 rounded-lgtext-black opacity-0 ease-in-out [--animation-delay:600ms]' href="/register">
             Sign up now!
           </Link>
           <div className="relative mt-12 md:mt-[8rem] animate-fade-up opacity-0 [--animation-delay:400ms] [perspective:2000px] after:absolute after:inset-0 after:z-50 after:[background:linear-gradient(to_top,black_30%,transparent)]">
@@ -107,7 +107,7 @@ export default function Home() {
               <div className="z-10 mt-4 flex flex-col items-center text-center text-primary">
                 <h1 className="text-2xl font-bold text-white md:text-3xl lg:text-4xl">Stop wasting time with your links.</h1>
                 <p className="mt-2 text-sm text-white md:text-base">Get started today. No credit card required.</p>
-                <Link className="text-white inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input bg-black shadow-sm hover:bg-white hover:text-accent-foreground h-10 mt-4 rounded-[2rem] px-6" href="/apply">
+                <Link className="text-white inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input bg-black shadow-sm hover:bg-white hover:text-accent-foreground h-10 mt-4 rounded-[2rem] px-6" href="/register">
                   Get Started
                 </Link>
               </div>
